@@ -1,6 +1,6 @@
 # VR-Baseball-Game
 新感覚VR野球ゲーム<Br>
-https://warabinbin.github.io/VR-Baseball-Game/ <Br>
+https://warabinbin.github.io/VRBaseballGame/ <Br>
 
 # プレイ画面　（Unity上の画面)
 
