@@ -1,18 +1,18 @@
 # VR Baseball Game
 
-# プレイ画面　
+### プレイ画面　
 
 https://user-images.githubusercontent.com/64608456/174791579-ee694810-2c8a-449d-8a91-ca1dfa5b92af.mp4
 
 https://user-images.githubusercontent.com/64608456/174791538-94fc8ac4-3723-45bb-a3af-e4c5dae21c10.mp4
 
   
-# 所感
+### 所感
 体験型VR野球ゲームです。球をバットに当てることは容易ではないので、バットや球を巨大にしたり、反発係数を大きくする、軌道を可視化するなど、野球未経験者でも楽しめる演出を盛り込みました。また、VR酔いが少しでも起きないように，視点をさほど動かす必要のない人間の視野の広さである両眼左右180°内に球を提示しました。<BR>
 
 身体を使った体験型ゲーム（Wii Sports等）は中に入りこめて面白い!!しかし、ソロプレイでは盛り上がりにかける......対戦型にすれば楽しさ倍増!?また、自分のアバターを投影出来たら没入感も倍増!?<Br>
   
-# 球種
+### 球種
 
 ストレート
   
@@ -34,7 +34,7 @@ https://user-images.githubusercontent.com/64608456/174776707-0d03cc82-f97c-42a9-
 
 https://user-images.githubusercontent.com/64608456/174776714-177cbcef-2809-4274-a6a8-95d3cb831618.mp4
 
-# モーションキャプチャー
+### モーションキャプチャー
 かわいいアバターでプレイ出来たら楽しい！（実装中）<Br>
 
 https://user-images.githubusercontent.com/64608456/174785742-ce903603-644e-4624-8b84-04af87da820b.mp4
