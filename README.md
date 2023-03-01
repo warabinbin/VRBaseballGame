@@ -2,11 +2,9 @@
 新感覚VR野球ゲーム<Br>
 https://warabinbin.github.io/VRBaseballGame/ <Br>
 
-# プレイ画面　（Unity上の画面)
+# プレイ画面　
 
 https://user-images.githubusercontent.com/64608456/174791579-ee694810-2c8a-449d-8a91-ca1dfa5b92af.mp4
- 
-# プレイ画面　（VR上の画面）
 
 https://user-images.githubusercontent.com/64608456/174791538-94fc8ac4-3723-45bb-a3af-e4c5dae21c10.mp4
 
