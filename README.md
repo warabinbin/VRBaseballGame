@@ -44,9 +44,12 @@ https://user-images.githubusercontent.com/64608456/174776714-177cbcef-2809-4274-
 </details>
 
 ### モーションキャプチャー
-かわいいアバターでプレイ出来たら楽しい！（実装中）<Br>
+  
+<details><summary>かわいいアバターでプレイ出来たら楽しい！（実装中）</summary>
 
 https://user-images.githubusercontent.com/64608456/174785742-ce903603-644e-4624-8b84-04af87da820b.mp4
+  
+</details>
 
 自作アバター：https://hub.vroid.com/characters/7505683733281551689/models/7976399858536859281
 
