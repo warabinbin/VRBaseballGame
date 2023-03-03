@@ -13,13 +13,11 @@ https://user-images.githubusercontent.com/64608456/174791538-94fc8ac4-3723-45bb-
 身体を使った体験型ゲーム（Wii Sports等）は中に入りこめて面白い!!しかし、ソロプレイでは盛り上がりにかける......対戦型にすれば楽しさ倍増!?また、自分のアバターを投影出来たら没入感も倍増!?<Br>
   
 ### 球種
-<details><summary>サンプルコード</summary>
-
-</details>
-
-ストレート
+<details><summary>ストレート</summary>
   
 https://user-images.githubusercontent.com/64608456/174776676-427d02cf-789a-4a48-bbfd-078a0d0628c4.mp4
+
+</details>
 
 スライダー
 
