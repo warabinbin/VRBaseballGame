@@ -36,12 +36,6 @@ https://user-images.githubusercontent.com/64608456/174776707-0d03cc82-f97c-42a9-
 https://user-images.githubusercontent.com/64608456/174776714-177cbcef-2809-4274-a6a8-95d3cb831618.mp4
   
 </details>
-
-### モーションキャプチャー
-  
-<details><summary>かわいいアバターでプレイ出来たら楽しい！（実装中）</summary>
-
-https://user-images.githubusercontent.com/64608456/174785742-ce903603-644e-4624-8b84-04af87da820b.mp4
   
 </details>
 
