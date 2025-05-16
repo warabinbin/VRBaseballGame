@@ -39,5 +39,3 @@ https://user-images.githubusercontent.com/64608456/174776714-177cbcef-2809-4274-
   
 </details>
 
-自作アバター：https://hub.vroid.com/characters/7505683733281551689/models/7976399858536859281
-
